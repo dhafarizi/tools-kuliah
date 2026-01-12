@@ -1,5 +1,5 @@
 ## 🚀 Tools Kuliah (`autoss.py`)
-Script ini dapat mengubah screenshot praktikum menjadi kode LaTeX secara instan.
+Script untuk mengubah screenshot praktikum menjadi kode LaTeX secara instan.
 
 **Persiapan:**
 1. Pastikan script `autoss.py` ada di folder kerja.
@@ -17,3 +17,4 @@ Script ini dapat mengubah screenshot praktikum menjadi kode LaTeX secara instan.
 5. Salin output terminal ke editor LaTeX Anda.
 
 Repo ini dibuat untuk mempercepat pengerjaan laporan.
+
